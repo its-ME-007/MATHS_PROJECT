@@ -1,1 +1,1 @@
-# Math project --> Shooting method
+# Math project -> Shooting method
