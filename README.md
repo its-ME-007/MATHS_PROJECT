@@ -84,6 +84,4 @@ This work draws on numerical methods for solving BVPs and builds on theoretical 
 - Attia (2006) on temperature-dependent viscosity and thermal conductivity.
 - Seddeek (2005) on chemical reactions and variable fluid properties.
 
-## Contact
 
-For any issues or doubts in the repository ,you can raise a PR.
